@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi Im argibeltza ✨ </h1> 
 
-<!--
-**argibeltza/argibeltza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:julenalbatellechea@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>About me 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 Student of Specialization Course 'Cybersecurity in Information Technology Environments'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I love cybersecurity 
+
+📫 Contact: **julenalbatellechea@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Known technologies👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,php,css,html,,mysql,github,bash,linux&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Projects👨🏻‍💻</h2>
+
+
+</p>        
+<!--- stats (end) -->
