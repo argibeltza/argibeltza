@@ -1,5 +1,5 @@
 <p align="center">
- <img src="" height="500"/>
+ <img src="" height="200"/>
 </p>
 <br>
 
@@ -31,7 +31,7 @@
 ✔ I’m currently learning about **Cybersecurity**🥰<br>
 ✔ I love cybersecurity 💻  <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔  Contact: **julenalbatellechea@gmail.com** 📫<br><br><br><br><br>
+✔  Contact: **julenalbatellechea@gmail.com** 📫<br><br>
  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -47,7 +47,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+<br><br>
 <p></p>
   <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
