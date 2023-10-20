@@ -49,6 +49,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <br><br>
 <p></p>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Website --> <a href="https://argibeltza.github.io/" rel="nofollow"> Blog </a>
+<br><br>
+<p></p>
   <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
  
