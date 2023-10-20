@@ -10,7 +10,7 @@
 <hr>
 
 
-<h1 align="center">Hi Im argibeltza ✨ </h1> 
+<h1 align="center">Hi I'm argibeltza ✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
@@ -27,9 +27,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning about **Cybersecurity**🥰<br>
-✔ I love cybersecurity 💻  <br>
+✔ TeamWorker 😊 <br>
+✔ I’m currently learning about **Cybersecurity**💻<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔  Contact: **julenalbatellechea@gmail.com** 📫<br><br>
  
