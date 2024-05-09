@@ -49,14 +49,14 @@
 <br><br>
 <p></p>
 
-#### Profile on THM
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***Profile on THM***<p>
 [![TryHackme](https://github.com/argibeltza/argibeltza/assets/115951028/155c9278-29b4-4ac6-8d70-fe58565dc4dd)](https://tryhackme.com/p/Argibeltza)
 
 
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Website --> <a href="https://argibeltza.github.io/" rel="nofollow"> Blog </a>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Website --> <a href="https://argibeltza.github.io/" rel="nofollow">***Blog*** </a>
 <br><br>
 <p></p>
   <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
