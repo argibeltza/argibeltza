@@ -13,7 +13,7 @@
 <h1 align="center">Hi I'm argibeltza ✨ </h1> 
 
 <p align="left">
-<a href="www.linkedin.com/in/julen-alba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/julen-alba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 <a href="https://www.facebook.com/anonews.co/?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""  /></a>
 <a href = "mailto:julenalbatellechea@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""  /></a>
   </p>
